@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31624.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P4InvestmentCalculator", "P4InvestmentCalculator\P4InvestmentCalculator.csproj", "{3778CC96-F441-4FEF-A823-33D18513C730}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InvestmentCalcTest", "InvestmentCalcTest\InvestmentCalcTest.csproj", "{9E60AC30-3571-4523-8E9E-0DAE48F7DE75}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3778CC96-F441-4FEF-A823-33D18513C730}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3778CC96-F441-4FEF-A823-33D18513C730}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3778CC96-F441-4FEF-A823-33D18513C730}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3778CC96-F441-4FEF-A823-33D18513C730}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9E60AC30-3571-4523-8E9E-0DAE48F7DE75}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9E60AC30-3571-4523-8E9E-0DAE48F7DE75}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9E60AC30-3571-4523-8E9E-0DAE48F7DE75}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9E60AC30-3571-4523-8E9E-0DAE48F7DE75}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7B8429B8-6017-47BC-B453-06ACEBA72E58}
+	EndGlobalSection
+EndGlobal
